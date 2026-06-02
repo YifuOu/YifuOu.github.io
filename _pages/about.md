@@ -49,8 +49,8 @@ His combines GIS, spatial analysis, econometrics, machine learning, and input-ou
 * **Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowships**, *Horizon Europe*, 2025-2027, **£235k** (**€276k**), **PI**, Awarded (Ref. Number: 101204687). Title: Assessing Carbon Emission Impacts of Circular Economy Measures for Construction and Demolition Wastes in the European Union.
 * **RGC Junior Research Fellow Scheme (2026)**, *Hong Kong Research Grant Council*, 2026-2028, **£93k** (**HK$980k**), **PI**, Awarded (Ref. Number: JRFS2627-7H02). Title: Quantifying Carbon Savings from Circularity of Construction and Demolition Waste in China.
 * **The 16th SAGES Small Grant Scheme**, *Scottish Alliance for Geoscience, Environment and Society*, 2025-2026, **£490** (**€575**), **PI**, Awarded (Ref. Number: 20557294). Title: Assessing Carbon Emission Impacts of Construction and Demolition Wastes Going Circular in Scotland.
-* **RGC Junior Research Fellow Scheme (2025)**, *Hong Kong Research Grant Council*, **£93k** (**HK$980k**), **PI**, shortlisted. Title: Bridging Cities: How China's Inter-City Metro Systems Reshape Accessibility, Land Use Pattern, and Travel Behavior.
-* **General Research Fund (2025/26)**, *Hong Kong Research Grant Council*, **£105k** (**HK$1.1M**), **Co-I**, Under review, (with Prof. Donggen Wang) Title: Assessing Inequalities in Objective and Perceived Measures of Healthcare Accessibility and Environmental Exposure Leveraging Large Language Models
+* **RGC Junior Research Fellow Scheme (2025)**, *Hong Kong Research Grant Council*, **£93k** (**HK$980k**), **PI**, Shortlisted. Title: Bridging Cities: How China's Inter-City Metro Systems Reshape Accessibility, Land Use Pattern, and Travel Behavior.
+* **General Research Fund (2025/26)**, *Hong Kong Research Grant Council*, **£105k** (**HK$1.1M**), **Co-I**, Under Review, (with Prof. Donggen Wang) Title: Assessing Inequalities in Objective and Perceived Measures of Healthcare Accessibility and Environmental Exposure Leveraging Large Language Models
 
 ---
 
