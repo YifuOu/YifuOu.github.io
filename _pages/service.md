@@ -10,11 +10,11 @@ author_profile: true
 
 ## Associate Editor
 
-All Earth
+* All Earth
 
 ## Editorial Board Member
 
-Discover Environment
+* Discover Environment
 
 ## Guest Editor
 
