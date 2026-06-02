@@ -4,7 +4,7 @@ layout: single
 title: "Research Funding"
 permalink: /funding/
 author_profile: true
---------------------
+---
 
 # Research Funding
 
