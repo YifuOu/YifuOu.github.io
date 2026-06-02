@@ -6,8 +6,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Teaching
-
 My teaching experience covers geographic data science, GIS, quantitative methods, urban studies, regional planning, transport and the environment, and sustainability in the built environment.
 
 ## University Teaching
