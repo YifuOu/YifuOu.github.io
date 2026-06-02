@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Publications
-
 (*Corresponding Author)
 
 For the most up-to-date publication list, please visit my Google Scholar profile:
