@@ -1,11 +1,9 @@
 ---
 layout: single
-title: ""
+title: "CV"
 permalink: /cv/
 author_profile: true
 ---
-
-# CV
 
 You can download my full CV here:
 
