@@ -1,7 +1,7 @@
 ---
 
 permalink: /
-title: "Yifu Ou"
+title: ""
 author_profile: true
 redirect_from:
 
