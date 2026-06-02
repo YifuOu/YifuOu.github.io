@@ -1,12 +1,10 @@
 ---
 
 layout: single
-title: ""
+title: "关于我"
 permalink: /cn/
 author_profile: true
 ---
-
-# 关于我
 
 欧逸夫博士现任英国赫瑞瓦特大学（Heriot-Watt University）玛丽居里学者（Marie Curie Fellow），并担任国际期刊 *All Earth* 副主编。
 
