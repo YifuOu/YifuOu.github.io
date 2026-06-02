@@ -24,7 +24,7 @@ Dr. Yifu Ou is a **Marie Curie Fellow** at Heriot-Watt University and **Associat
 * **Marie Skłodowska-Curie Actions (MSCA) Fellow**, *Horizon Europe*
 * **Junior Research Fellow Award**, *Hong Kong Research Grant Council*
 * **Associate Editor**, *All Earth*
-* Author of 30+ peer-reviewed journal articles
+* Author of **30+** peer-reviewed journal articles
 
 ## Contact
 
