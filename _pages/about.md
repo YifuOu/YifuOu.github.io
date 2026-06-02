@@ -32,8 +32,8 @@ Dr. Yifu Ou is a **Marie Curie Fellow** at Heriot-Watt University and **Associat
 
 Email: [oyf915@connect.hku.hk](mailto:oyf915@connect.hku.hk)
 
-ORCID: 
-https://orcid.org/0000-0001-8756-8018
+ORCID:
+[0000-0001-8756-8018](https://orcid.org/0000-0001-8756-8018)
 
-Google Scholar: 
-https://scholar.google.com/citations?user=8dtoR0QAAAAJ&hl=en&oi=ao
+Google Scholar:
+[Google Scholar Profile](https://scholar.google.com/citations?user=8dtoR0QAAAAJ&hl=en&oi=ao)
