@@ -6,8 +6,6 @@ permalink: /funding/
 author_profile: true
 ---
 
-# Research Funding
-
 My research has been supported by Horizon Europe, the Hong Kong Research Grants Council (RGC), the Scottish Alliance for Geoscience, Environment and Society (SAGES), and other competitive funding schemes.
 
 ## Principal Investigator (Awarded)
