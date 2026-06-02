@@ -12,7 +12,7 @@ redirect_from:
 
 # About Me
 
-Dr. Yifu Ou is a Marie Skłodowska-Curie Fellow at Heriot-Watt University and Associate Editor of *All Earth*. His research focuses on geographic data science, transport and mobility, urban and regional planning, and environmental sustainability and climate change. His work examines how infrastructure investment, environmental change, and urban development shape human mobility, accessibility, spatial inequalities, and environmental outcomes across cities and regions. He uses GIS, econometric methods, machine learning, and input-output analysis to provide policy-relevant evidence supporting sustainable urban and regional planning.
+Dr. Yifu Ou is a Marie Curie Fellow at Heriot-Watt University and Associate Editor of *All Earth*. His research focuses on geographic data science, transport and mobility, urban and regional planning, and environmental sustainability and climate change. His work examines how infrastructure investment, environmental change, and urban development shape human mobility, accessibility, spatial inequalities, and environmental outcomes across cities and regions. He uses GIS, econometric methods, machine learning, and input-output analysis to provide policy-relevant evidence supporting sustainable urban and regional planning.
 
 ## Research Interests
 
