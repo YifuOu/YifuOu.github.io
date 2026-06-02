@@ -6,9 +6,6 @@ permalink: /service/
 author_profile: true
 ---
 
-
-# Editorial Leadership
-
 ## Associate Editor
 
 * All Earth
@@ -25,12 +22,12 @@ author_profile: true
 * Atmosphere
 * Land
 
-# Conference and Professional Service
+## Conference and Professional Service
 
 * Scientific Committee Member, *The 11th World Sustainability Forum (2025)*
 * Session Chair, *The 19th IACP Annual Conference (2025)*
 
-# Journal Reviewer
+## Journal Reviewer
 
 * Humanities & Social Sciences Communications
 * Cities
@@ -44,7 +41,7 @@ author_profile: true
 * Environmental Impact Assessment Review
 * Resources, Conservation and Recycling
 
-# Professional Memberships
+## Professional Memberships
 
 * Marie Curie Alumni Association
 * International Association for China Planning
