@@ -1,7 +1,7 @@
 ---
 
 layout: single
-title: "中文"
+title: ""
 permalink: /cn/
 author_profile: true
 ---
