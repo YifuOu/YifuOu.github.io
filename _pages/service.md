@@ -47,4 +47,3 @@ author_profile: true
 * International Association for China Planning
 * Scottish Alliance for Geoscience, Environment and Society
 * Hong Kong Institute of Urban Design
-
