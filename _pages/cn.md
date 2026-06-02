@@ -4,7 +4,7 @@ layout: single
 title: "中文"
 permalink: /cn/
 author_profile: true
---------------------
+---
 
 # 关于我
 
